@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "repl_python3_beta_Nuke-Bot-Tutorial"
+version = "0.1.0"
+description = ""
+authors = ["Bunker"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+colorama = "^0.4.4"
+discord = "^1.0.1"
+Flask = "^2.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
