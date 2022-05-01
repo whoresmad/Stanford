@@ -4,9 +4,9 @@ Arabic Letter: ﷽
 ---------------------------------------------------------------
 |-------------------------------------------------------------|
 |#Credits:                                                    |
-|" Main.py " Made by: Bunker / Github: @nunfamous             |
-|" .bat files " Made By Bunker Also lolz                      |
-|"Well Self Made Webserver+lock+etc" Made by my sex slave: h! |
+|" Main.py " Made by: Diquit / Github: @nunfamous             |
+|" .bat files " Made By Diquit Also lolz                      |
+|"Well Self Made Webserver+lock+etc" Made by my sex slave: tov|
 |-------------------------------------------------------------|
 ---------------------------------------------------------------
 
