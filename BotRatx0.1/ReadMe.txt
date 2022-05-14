@@ -4,8 +4,8 @@ Arabic Letter: ﷽
 ---------------------------------------------------------------
 |-------------------------------------------------------------|
 |#Credits:                                                    |
-|" Main.py " Made by: Diquit / Github: @nunfamous             |
-|" .bat files " Made By Diquit Also lolz                      |
+|" Main.py " Made by: Ratsuyo#0001 / Github: @user2bad        |
+|" .bat files " Made By Ratsuyo Also lolz                     |
 |"Well Self Made Webserver+lock+etc" Made by my sex slave: tov|
 |-------------------------------------------------------------|
 ---------------------------------------------------------------
@@ -21,4 +21,4 @@ Arabic Letter: ﷽
 
 
 
-Ly <3 (For The Nun Skids) For The Skids - GFYS + KYS
+Ly <3 (For The Nun Skids) | For The Skids - GFYS + KYS
