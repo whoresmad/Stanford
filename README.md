@@ -10,4 +10,4 @@
   (I'm not responsible for any damages that you will cause with this).
 ```
   
-<p style="text-align: center;"align="center">☛ <a href="https://discord.com/invite/termsofservice">Join The Current Discord Server.</a>♡</p>
+<p style="text-align: center;"align="center">☛ <a href="https://discord.com/invite/termsofservice">Discord Server</a>♡</p>
