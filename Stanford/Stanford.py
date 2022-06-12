@@ -8,7 +8,7 @@ from pystyle import *
 
 os.system('cls')
 time.sleep(1)
-os.system("title Stanford ┃ By: brook")
+os.system("title Stanford ┃ By: Skiout")
 os.system('cls')
 time.sleep(1)
 token = (Write.Input(f"""
