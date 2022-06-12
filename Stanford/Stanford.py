@@ -38,7 +38,7 @@ async def on_ready():
 ╔═╗┌┬┐┌─┐┌┐┌┌─┐┌─┐┬─┐┌┬┐
 ╚═╗ │ ├─┤│││├┤ │ │├┬┘ ││
 ╚═╝ ┴ ┴ ┴┘└┘└  └─┘┴└──┴┘
-Github: @GotRipped\nCurrent Discord: brook#6666 | Ripped#0001 \n
+Github: @GotRipped\nCurrent Discord: Ich D-Skid#6969 | Ripped#0001 \n
 ╔══Bot - {client.user}\n╚══► Connected
 ╔══Prefix\n╚══► " ! "
 ╔══Commands\n╚══► sad = Dropping The Nuke. | stop = To stop the nuke + log-out.
