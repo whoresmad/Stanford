@@ -32,6 +32,7 @@ intents=discord.Intents.all()
 
 os.system('cls')
 time.sleep(1)
+os.system("title Stanford ~ Online ┃ By: Bryon")
 @client.event
 async def on_ready():
    Write.Print(f"""
