@@ -8,7 +8,7 @@ from pystyle import *
 
 os.system('cls')
 time.sleep(1)
-os.system("title Stanford ┃ By: clownist")
+os.system("title Stanford ┃ By: Gingest")
 os.system('cls')
 time.sleep(1)
 token = (Write.Input(f"""
@@ -27,14 +27,14 @@ client = commands.Bot(command_prefix="!")
 
 os.system('cls')
 time.sleep(1)
-os.system("title Stanford ~ Online ┃ By: clownist")
+os.system("title Stanford ~ Online ┃ By: Gingest")
 @client.event
 async def on_ready():
    Write.Print(f"""
 ╔═╗┌┬┐┌─┐┌┐┌┌─┐┌─┐┬─┐┌┬┐
 ╚═╗ │ ├─┤│││├┤ │ │├┬┘ ││
 ╚═╝ ┴ ┴ ┴┘└┘└  └─┘┴└──┴┘
-Github: @clownist\nCurrent Discord: .gg/vcc | Gingest#6666 \n
+Github: @lemmebe\nCurrent Discord: .gg/vcc | Gingest#6666 \n
 ╔══Bot - {client.user}\n╚══► Connected
 ╔══Prefix\n╚══► " ! "
 ╔══Commands\n╚══► cry = Dropping The Nuke. | stop = To stop the nuke.
@@ -46,7 +46,7 @@ Github: @clownist\nCurrent Discord: .gg/vcc | Gingest#6666 \n
 async def stop(ctx): #~ stop command
   await ctx.bot.logout()
   os.system("cls")
-  os.system("title Stanford ~ Offline ┃ By: clownist")
+  os.system("title Stanford ~ Offline ┃ By: Gingest")
   print (Fore.BLUE + f"{client.user.name} has logged out successfully.")
   os.system("pause >nul")
   os.system("cls")
