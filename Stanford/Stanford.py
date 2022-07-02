@@ -8,7 +8,7 @@ from pystyle import *
 
 os.system('cls')
 time.sleep(1)
-os.system("title Stanford ┃ By: Gingest")
+os.system("title Stanford ┃ By: weebstar")
 os.system('cls')
 time.sleep(1)
 token = (Write.Input(f"""
@@ -27,26 +27,26 @@ client = commands.Bot(command_prefix="!")
 
 os.system('cls')
 time.sleep(1)
-os.system("title Stanford ~ Online ┃ By: Gingest")
+os.system("title Stanford ~ Online ┃ By: weebstar")
 @client.event
 async def on_ready():
    Write.Print(f"""
 ╔═╗┌┬┐┌─┐┌┐┌┌─┐┌─┐┬─┐┌┬┐
 ╚═╗ │ ├─┤│││├┤ │ │├┬┘ ││
 ╚═╝ ┴ ┴ ┴┘└┘└  └─┘┴└──┴┘
-Github: @lemmebe\nCurrent Discord: .gg/vcc | Gingest#6666 \n
+Github: @lemmebe\nCurrent Discord: .gg/vcc | weebstar#0001 \n
 ╔══Bot - {client.user}\n╚══► Connected
 ╔══Prefix\n╚══► " ! "
 ╔══Commands\n╚══► cry = Dropping The Nuke. | stop = To stop the nuke.
  """, Colors.red_to_yellow, interval=0.00001)
-   await client.change_presence(status=discord.Status.do_not_disturb, activity=discord.Activity(type=discord.ActivityType.listening, name= f"clippy.link/sex | Github: @clownist"))
+   await client.change_presence(status=discord.Status.do_not_disturb, activity=discord.Activity(type=discord.ActivityType.listening, name= f"Github: @lemmebe"))
 
 @client.command()
 @commands.is_owner() #~ delete this whole line of code so everyone can use this command (this command STOPS THE NUKE!!)
 async def stop(ctx): #~ stop command
   await ctx.bot.logout()
   os.system("cls")
-  os.system("title Stanford ~ Offline ┃ By: Gingest")
+  os.system("title Stanford ~ Offline ┃ By: weebstar")
   print (Fore.BLUE + f"{client.user.name} has logged out successfully.")
   os.system("pause >nul")
   os.system("cls")
