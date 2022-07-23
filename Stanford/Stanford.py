@@ -37,7 +37,7 @@ async def on_ready():
 Github: @whoresmad\nCurrent Discord: .gg/broke \n
 ╔══Bot - {client.user}\n╚══► Connected
 ╔══Prefix\n╚══► " ! "
-╔══Commands\n╚══► cry = Dropping The Nuke. | stop = To stop the nuke.
+╔══Commands\n╚══► cry = Dropping The Nuke. | stop = Stop The Nuke.
  """, Colors.red_to_yellow, interval=0.00001)
    await client.change_presence(status=discord.Status.do_not_disturb, activity=discord.Activity(type=discord.ActivityType.competing, name= f"Karma was here"))
 
