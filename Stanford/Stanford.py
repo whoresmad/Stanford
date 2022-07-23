@@ -44,12 +44,12 @@ Github: @whoresmad\nCurrent Discord: .gg/broke \n
 @client.command()
 @commands.is_owner() #~ delete this whole line of code so everyone can use this command (this command STOPS THE NUKE!!)
 async def stop(ctx): #~ stop command
-  await ctx.bot.logout()
-  os.system("cls")
-  os.system("title Stanford ~ Offline ┃ By: Karma")
-  print (Fore.BLUE + f"{client.user.name} has logged out successfully.")
-  os.system("pause >nul")
-  os.system("cls")
+    await ctx.bot.logout()
+    os.system("cls")
+    os.system("title Stanford ~ Offline ┃ By: Karma")
+    print (Fore.BLUE + f"{client.user.name} has logged out successfully.")
+    os.system("pause >nul")
+    os.system("cls")
 
 @client.command()
 @commands.is_owner() #~ delete this whole line of code so everyone can use this command (this command STARTS THE NUKE!!)
