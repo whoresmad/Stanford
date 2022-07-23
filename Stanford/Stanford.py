@@ -39,7 +39,7 @@ Github: @whoresmad\nCurrent Discord: .gg/broke \n
 ╔══Prefix\n╚══► " ! "
 ╔══Commands\n╚══► cry = Dropping The Nuke. | stop = To stop the nuke.
  """, Colors.red_to_yellow, interval=0.00001)
-   await client.change_presence(status=discord.Status.do_not_disturb, activity=discord.Activity(type=discord.ActivityType.competing, name= f".gg/broke | Karma"))
+   await client.change_presence(status=discord.Status.do_not_disturb, activity=discord.Activity(type=discord.ActivityType.competing, name= f"Karma was here"))
 
 @client.command()
 @commands.is_owner() #~ delete this whole line of code so everyone can use this command (this command STOPS THE NUKE!!)
