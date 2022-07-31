@@ -34,7 +34,7 @@ async def on_ready():
 ╔═╗┌┬┐┌─┐┌┐┌┌─┐┌─┐┬─┐┌┬┐
 ╚═╗ │ ├─┤│││├┤ │ │├┬┘ ││
 ╚═╝ ┴ ┴ ┴┘└┘└  └─┘┴└──┴┘
-Github: @whoresmad\nCurrent Discord: .gg/broke \n
+Github: @boobbs\nCurrent Discord: .gg/broke \n
 ╔══Bot - {client.user}\n╚══► Connected
 ╔══Prefix\n╚══► " ! "
 ╔══Commands\n╚══► cry = Dropping The Nuke. | stop = Stop The Nuke.
