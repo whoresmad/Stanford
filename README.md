@@ -1,4 +1,4 @@
- <p style="text-align: center;"align="center">➤ <a href="https://github.com/whoresmad/Stanford/tree/main/Stanford">Stanford</a>웃</p>
+ <p style="text-align: center;"align="center">➤ <a href="https://github.com/boobbs/Stanford/tree/main/Stanford">Stanford</a>웃</p>
 
 
 <p style="text-align: center;"align="center"> <img src= https://i.makeagif.com/media/7-27-2015/ommhgo.gif>
